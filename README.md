@@ -84,7 +84,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,ubuntu" />
-   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,jenkins,CircleCi,kubernetes" />
+   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,jenkins,kubernetes" /><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jayasurya5454&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=Jayasurya5454&theme=matrix&no-bg=true&no-frame=true&row=1&column=3&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
 

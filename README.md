@@ -84,7 +84,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,ubuntu" />
-   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,jenkins,kubernetes" /><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/>
+   
   </a>
 </p>
 
@@ -126,4 +126,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Jayasurya</a></p>
+<p align="right" > Created with 🧡 by <a href="https://jayasurya.66ghz.com/">Jayasurya</a></p>

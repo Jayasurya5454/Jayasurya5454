@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Programmer from India </h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=Jayasurya5454&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 
 </p>
 
@@ -84,7 +84,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,ubuntu" />
-   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,jenkins,circleci,kubernetes" />
+   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,jenkins,CircleCi,kubernetes" />
   </a>
 </p>
 
@@ -98,7 +98,7 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jayasurya5454&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+<img src="https://github-profile-trophy.vercel.app/?username=Jayasurya5454&theme=matrix&no-bg=true&no-frame=true&row=1&column=3&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
 
 <div align="center">

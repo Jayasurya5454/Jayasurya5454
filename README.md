@@ -85,6 +85,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,ubuntu" />
+    
    
   </a>
 </p>
@@ -115,6 +116,7 @@
 ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayasurya5454\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jayasurya5454&theme=midnight-purple)](https://git.io/streak-stats)
+<img src="https://github.com/vasantharan/github-stats/blob/master/generated/languages.svg">
 
 </div>
 

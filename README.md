@@ -115,10 +115,12 @@
  
 ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayasurya5454\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jayasurya5454&theme=midnight-purple)](https://git.io/streak-stats)   <img src="https://github.com/vasantharan/github-stats/blob/master/generated/languages.svg">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jayasurya5454&theme=midnight-purple)](https://git.io/streak-stats) 
+<img src="https://github.com/jayasurya5454/github-stats/blob/master/generated/languages.svg">
 
-<br>
-![Jayasurya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayasurya5454&custom_title=Jayasurya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+![Jayasurya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayasurya5454&custom_title=Jayasurya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 
 </div>

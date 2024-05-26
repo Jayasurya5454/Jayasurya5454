@@ -117,8 +117,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jayasurya5454&theme=midnight-purple)](https://git.io/streak-stats) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayasurya5454&langs_count=8)
-
 ![Jayasurya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayasurya5454&custom_title=Jayasurya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 

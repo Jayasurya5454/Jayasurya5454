@@ -117,7 +117,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jayasurya5454&theme=midnight-purple)](https://git.io/streak-stats)
 <br>
-![Vasantharan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasantharan&custom_title=Vasantharan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Jayasurya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayasurya5454&custom_title=Vasantharan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 </div>

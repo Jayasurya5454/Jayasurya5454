@@ -48,9 +48,7 @@
 <a href="https://www.instagram.com/jayasurya_muthukumar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayasurya_muthukumar" height="30" width="40" />
 </a>
-<a href="https://jayasuryam.netlify.app" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="portfolio" height="30" width="40" />
-</a>
+
 <a href="https://leetcode.com/JAYASURYA_M" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>

@@ -78,7 +78,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,sql,redis" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
   </a>
 </p>
 
@@ -91,7 +91,7 @@
 - Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,circleci" />
+    <img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes" />
   </a>
 </p>
 

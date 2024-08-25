@@ -27,11 +27,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Infsum**
+- 🔭 I’m currently working on **ChainAim**
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Java, Python, Kubernetes, AWS and NodeJS**
+- 💬 Ask me about **React, Python, Kubernetes, AWS and NodeJS**
 
 - 📫 How to reach me **jayasuryakarthi55@gmail.com**
 
@@ -59,39 +59,46 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css" />
+  </a>
+</p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,flask,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask" />
   </a>
 </p>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react," />
-  </a>
-</p>
+
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,sql,redis" />
   </a>
 </p>
 
-- Cloud Servers
+- Cloud Providers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,azure" />
+  </a>
+</p>
+- Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,circleci" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,ubuntu" />
     
    
   </a>

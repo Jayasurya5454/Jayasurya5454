@@ -61,7 +61,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,aws,gcp,firebase,azure,mongodb,mysql,git,github,vscode,postman,linux,ubuntu,redis,nodejs,express,py,flask,js,react,html,css" />
+    <img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,aws,gcp,firebase,azure,py" />
+   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,nodejs,express,flask,vscode,postman"/>
+   <img src="https://skillicons.dev/icons?i=js,react,html,css,git,github,linux,ubuntu"/>
   </a>
 
 

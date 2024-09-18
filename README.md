@@ -59,19 +59,13 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css" />
-  </a>
-</p>
 
-- Backend
-<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask" />
+    <img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,aws,gcp,firebase,azure,mongodb,mysql,git,github,vscode,postman,linux,ubuntu,redis,nodejs,express,py,flask,js,react,html,css" />
   </a>
-</p>
+
+
+
 - Database
 <p align="left">
   <a href="https://skillicons.dev">

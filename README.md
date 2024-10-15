@@ -1,10 +1,10 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="26%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height ="26%"style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height ="23%"style="display:inline;">
 
 
 <h1 align="center">Hi 👋, I'm JAYASURYA M</h1>
 <h3 align="center">A passionate Programmer from India </h3>
-<p align="center">I'm fascinated by how computer technology has transformed our lives in ways we couldn't have predicted. Witnessing its expansion inspired me to pursue software engineering from an early age, and my passion has only grown. I also love exploring new tech stacks and using them to build cool things. 🛠️</p>
+<p align="center">I'm fascinated by how computer technology has transformed our lives in ways we couldn't have predicted. Witnessing its expansion inspired me to pursue software engineering from an early age, and my passion has only grown. 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Jayasurya5454&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 

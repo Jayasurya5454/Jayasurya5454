@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm JAYASURYA M</h1>
 <h3 align="center">A passionate Programmer from India </h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I'm fascinated by how computer technology has transformed our lives in ways we couldn't have predicted. Witnessing its expansion inspired me to pursue software engineering from an early age, and my passion has only grown. I also love exploring new tech stacks and using them to build cool things. 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Jayasurya5454&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 

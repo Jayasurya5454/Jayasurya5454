@@ -46,9 +46,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jayasurya5454/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://leetcode.com/u/Jayasurya_M/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="leetcode" /></a>
+<a href="https://leetcode.com/u/JAYASURYA_M/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="leetcode" /></a>
   <a href="https://www.kaggle.com/jayasuryam22alr032" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
- <a href="https://jayasurya5454.medium.com target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a>
+ <a href="https://jayasurya5454.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a> 
 <a href="https://www.hackerrank.com/profile/Jayasurya5454" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white" alt="hackerrank" /></a>
 </p>
 <br>

@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **React, Python, Kubernetes, AWS and NodeJS**
+- 💬 Ask me about **Terraform, AWS, NodeJS, Docker, Kubernetes**
 
 - 📫 How to reach me **jayasuryakarthi55@gmail.com**
 

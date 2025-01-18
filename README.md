@@ -40,7 +40,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/jayasurya5454/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://leetcode.com/u/JAYASURYA_M/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="leetcode" /></a>
@@ -52,7 +52,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,gcp,azure,py,nodejs,express,mongodb,mysql,postman,git,linux" /> 

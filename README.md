@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **Terraform, AWS, NodeJS, Docker, Kubernetes**
 
-- 📫 How to reach me **jayasuryakarthi55@gmail.com**
+- 📫 How to reach me [Email](jayasuryakarthi55@gmail.com)
 
 - 📄 Know about my experiences [Workfolio](https://jayasuryam.netlify.app)
 

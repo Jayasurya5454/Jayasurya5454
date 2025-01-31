@@ -26,7 +26,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **ChainAim**
+- 🔭 I’m currently working as a remote Intern on **ChainAim**
 
 - 🌱 I’m currently learning **Devops**
 
@@ -39,20 +39,6 @@
 - ⚡ Fun fact **I think I'm funny**
 
 <br>
-
-<!--  
-# Achievements
-
-| Place  | Achievement               | Description                                                                                          | Icon                                                                 |
-|--------|---------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 🥇 1st | Puzzle Solving Fest       | Won 1st place at puzzle-solving fest at KEC.                                                       | ![Icon](https://img.icons8.com/?size=50&id=X6CJMckcVrBj&format=png&color=000000) |
-| 🥉 3rd | Front to Back Hackathon   | Won 3rd prize at Front to Back Hackathon at GCT Coimbatore.                                         | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |
-| 🥉 3rd | 38-Hour Hackathon         | Won 3rd place at 38-hour hackathon, KEC Hackathon 24, competing across the college.                 | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |
-| 🥉 3rd | IEEE Paper Presentation   | Won 3rd place at paper presentation organized by the IEEE student branch at KEC.                   | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |
-| 📄     | Research Paper Published  | Published "Leveraging Deep Learning For Comprehensive Plant Disease Classification" in IEEE Xplore. | ![Icon](https://img.icons8.com/?size=50&id=8MqrQIywEiYc&format=png&color=000000) |
--->
-
-
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
@@ -92,6 +78,17 @@
 </div>
 
 <br><br>
+ 
+# Achievements
+
+| Place  | Achievement               | Description                                                                                          | Icon                                                                 |
+|--------|---------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| 🥇 1st | Puzzle Solving Fest       | Won 1st place at puzzle-solving fest at KEC.                                                       | ![Icon](https://img.icons8.com/?size=50&id=X6CJMckcVrBj&format=png&color=000000) |
+| 🥉 3rd | Front to Back Hackathon   | Won 3rd prize at Front to Back Hackathon at GCT Coimbatore.                                         | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |
+| 🥉 3rd | 38-Hour Hackathon         | Won 3rd place at 38-hour hackathon, KEC Hackathon 24, competing across the college.                 | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |
+| 🥉 3rd | IEEE Paper Presentation   | Won 3rd place at paper presentation organized by the IEEE student branch at KEC.                   | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |
+| 📄     | Research Paper Published  | Published "Leveraging Deep Learning For Comprehensive Plant Disease Classification" in IEEE Xplore. | ![Icon](https://img.icons8.com/?size=50&id=8MqrQIywEiYc&format=png&color=000000) |
+
 
 
 

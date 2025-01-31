@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **jayasuryakarthi55@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://jayasuryam.netlify.app)
+- 📄 Know about my experiences [Workfolio](https://jayasuryam.netlify.app)
 
 - ⚡ Fun fact **I think I'm funny**
 

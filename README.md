@@ -83,7 +83,7 @@
 
 | Place  | Achievement               | Description                                                                                          | Icon                                                                 |
 |--------|---------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 🥇 1st | Puzzle Solving Fest       | Won 1st place at AI Conclave National Level Hackathon with  **Reward of 10,000**                                                     | ![Icon](https://img.icons8.com/?size=50&id=X6CJMckcVrBj&format=png&color=000000) |
+| 🥇 1st | AI Conclave - 24 Hour Hackathon    | Won 1st place at AI Conclave National Level Hackathon with  **Reward of 10,000**                                                     | ![Icon](https://img.icons8.com/?size=50&id=X6CJMckcVrBj&format=png&color=000000) |
 | 🥇 1st | Puzzle Solving Fest       | Won 1st place at puzzle-solving fest at KEC.                                                       | ![Icon](https://img.icons8.com/?size=50&id=X6CJMckcVrBj&format=png&color=000000) |
 | 🥇 2st | 24-Hour Hackathon      | Won 2st place at 24-hour hackathon at KEC.                                                       | ![Icon](https://img.icons8.com/?size=50&id=dgAxfaiZaNr6&format=png&color=000000) |
 | 🥉 3rd | Front to Back Hackathon   | Won 3rd prize at Front to Back Hackathon at GCT Coimbatore.                                         | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |

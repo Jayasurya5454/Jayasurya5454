@@ -30,11 +30,11 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Terraform, AWS, NodeJS, Docker, Kubernetes**
+- 💬 Ask me about **Terraform, AWS,Docker, Kubernetes**
 
 - 📫 How to reach me [Email](jayasuryakarthi55@gmail.com)
 
-- 📄 Know about my experiences [Workfolio](https://jayasuryam.netlify.app)
+- 📄 Know about my experiences [Workfolio](https://jayasuryam.tech)
 
 - ⚡ Fun fact **I think I'm funny**
 

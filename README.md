@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm JAYASURYA M</h1>
-<h3 align="center">A passionate Programmer from India </h3>
+<h3 align="center">A passionate Engineer from India </h3>
 <p align="center">I'm fascinated by how computer technology has transformed our lives in ways we couldn't have predicted. Witnessing its expansion inspired me to pursue software engineering from an early age, and my passion has only grown. 🛠️</p></div>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Jayasurya5454&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
@@ -26,9 +26,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working in [CodeMagen](https://www.codemagen.com)
-
-- 🌱 I’m currently learning **Devops**
+- 🔭 I’m currently working in [CodeMagen](https://www.codemagen.com) as CLoud Engineer
 
 - 💬 Ask me about **Terraform, AWS,Docker, Kubernetes**
 

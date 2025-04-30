@@ -12,11 +12,14 @@
 </p>
 
 <div align="center">
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+
+   
 </div>
 
 <br>
@@ -28,7 +31,7 @@
 
 - 🔭 I’m currently working in [CodeMagen](https://www.codemagen.com) as CLoud Engineer
 
-- 💬 Ask me about **Terraform, AWS,Docker, Kubernetes**
+- 💬 Ask me about **Terraform, Google CLoud, AWS, Docker, Kubernetes**
 
 - 📫 How to reach me [Email](jayasuryakarthi55@gmail.com)
 
@@ -53,7 +56,7 @@
 <h1 align="left">Languages and Tools:</h1>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,gcp,azure,py,nodejs,express,mongodb,mysql,postman,git,linux" /> 
+       <img src="https://skillicons.dev/icons?i=gcp,aws,terraform,docker,kubernetes,nginx,bitbucket,jenkins,github,grafana,prometheus,postman,git,linux" /> 
   </a>
 
 

@@ -27,9 +27,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working in [CodeMagen](https://www.codemagen.com) as CLoud Engineer
+- 🔭 I’m currently working in [CodeMagen](https://www.codemagen.com) as Cloud Engineer
 
-- 💬 Ask me about **Terraform, Google CLoud, AWS, Docker, Kubernetes**
+- 💬 Ask me about **Terraform, Google Cloud, AWS, Docker, Kubernetes**
 
 - 📫 How to reach me [Email](jayasuryakarthi55@gmail.com)
 

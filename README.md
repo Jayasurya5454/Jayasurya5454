@@ -67,8 +67,7 @@
 
 # GitHub Stats and Streak
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayasurya5454&show_icons=true&theme=dark#gh-dark-mode-only&ring_color=ffffff) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Jayasurya5454&theme=dark) |
-| --- | --- |
+ ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Jayasurya5454&theme=dark) 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayasurya5454&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=00FF00&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true) 
 

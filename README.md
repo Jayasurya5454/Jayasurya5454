@@ -11,16 +11,14 @@
 
 </p>
 
-<div align="center">
-   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+<br clear="both">
+<table align="center"><tr>
+<td><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="55" height="55" /></td>
+<td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="55" height="55" /></td>
+<td><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="55" height="55" /></td>
+<td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="55" height="55" /></td>
+</tr></table>
 
-   
-</div>
-
-<br>
 
 
 
@@ -33,7 +31,7 @@
 
 - 📫 How to reach me [Email](jayasuryakarthi55@gmail.com)
 
-- 📄 Know about my experiences [Workfolio](https://jayasuryam.tech)
+- 📄 Know about my experiences [Workfolio](https://jayasuryam.netlify.app)
 
 - ⚡ Fun fact **I think I'm funny**
 
@@ -67,7 +65,7 @@
 
 # GitHub Stats and Streak
 
- ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Jayasurya5454&theme=dark) 
+ <!--![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Jayasurya5454&theme=dark) -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayasurya5454&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=00FF00&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true) 
 

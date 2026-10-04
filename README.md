@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Engineer from India </h3>
 <p align="center">I'm fascinated by how computer technology has transformed our lives in ways we couldn't have predicted. Witnessing its expansion inspired me to pursue software engineering from an early age, and my passion has only grown. 🛠️</p></div>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Jayasurya5454&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=Jayasurya5454" alt="supun nanayakkara" /> 
 
 </p>
 
@@ -27,11 +27,11 @@
 
 - 🔭 I’m currently working in [CodeMagen](https://www.codemagen.com) as Cloud Engineer
 
-- 💬 Ask me about **Terraform, Google Cloud, AWS, Docker, Kubernetes**
+- 💬 Ask me about **Google Cloud, AWS, Kubernetes, HDL, Solution Architecture**
 
 - 📫 How to reach me [Email](jayasuryakarthi55@gmail.com)
 
-- 📄 Know about my experiences [Workfolio](https://jayasuryam.netlify.app)
+- 📄 Know about my experiences [Workfolio](https://jayasurya.tech)
 
 - ⚡ Fun fact **I think I'm funny**
 
@@ -62,13 +62,6 @@
 
 <div align="center">
  
-
-# GitHub Stats and Streak
-
- <!--![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Jayasurya5454&theme=dark) -->
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayasurya5454&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=00FF00&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true) 
-
 
 
 </div>

@@ -1,90 +1,46 @@
-<div><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height ="23%"style="display:inline;">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jayasurya%20M&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer%20%C2%B7%20Kubernetes%20%C2%B7%20AI%20Infrastructure&descAlignY=60&descSize=17&animation=none" />
 
-
-
-<h1 align="center">Hi 👋, I'm JAYASURYA M</h1>
-<h3 align="center">A passionate Engineer from India </h3>
-<p align="center">I'm fascinated by how computer technology has transformed our lives in ways we couldn't have predicted. Witnessing its expansion inspired me to pursue software engineering from an early age, and my passion has only grown. 🛠️</p></div>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Jayasurya5454" alt="" /> 
-
+<p align="center">
+  <a href="https://jayasurya.tech"><img src="https://img.shields.io/badge/jayasurya.tech-0f2027?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jayasurya5454/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jayasurya5454.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/jayasurya_m"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" /></a>
+  <a href="mailto:jayasuryakarthi55@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<br clear="both">
-<table align="center"><tr>
-<td><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="55" height="55" /></td>
-<td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="55" height="55" /></td>
-<td><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="55" height="55" /></td>
-<td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="55" height="55" /></td>
-</tr></table>
+I'm a Cloud Engineer at **[CodeMagen](https://www.codemagen.com)**, where I build and run the platforms our products live on — from bare-metal servers up to Kubernetes clusters on GCP and AWS.
 
+These days most of my time goes into making AI workloads boring to operate: serving models on Kubernetes, scaling them to zero with Knative, and keeping an eye on cost and reliability while doing it.
 
+Before cloud, I did deep learning research — my work on plant disease classification is published in **IEEE Xplore**.
 
+### What I work on
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+- **Platform** — K3s, Knative and Proxmox on our own hardware; GKE and EKS in the cloud
+- **Automation** — Terraform, Jenkins and GitHub Actions so nothing gets clicked into existence twice
+- **Observability** — Prometheus and Grafana dashboards that tell you what broke before users do
+- **AI infra** — model serving, RAG backends and agent tooling on GCP Vertex AI
 
-- 🔭 I’m currently working in [CodeMagen](https://www.codemagen.com) as Cloud Engineer
+### Tools I use daily
 
-- 💬 Ask me about **Google Cloud, AWS, Kubernetes, HDL, Solution Architecture**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,terraform,linux,nginx,prometheus,grafana,jenkins,githubactions,python&perline=12" />
+</a>
 
-- 📫 How to reach me [Email](jayasuryakarthi55@gmail.com)
+### Highlights
 
-- 📄 Know about my experiences [Workfolio](https://jayasurya.tech)
+🏆 &nbsp;**1st place** — AI Conclave National 24-hour Hackathon *(₹10,000 prize)*<br>
+📄 &nbsp;**Published in IEEE Xplore** — *Leveraging Deep Learning for Comprehensive Plant Disease Classification*<br>
+🥈 &nbsp;**2nd place** — 24-hour Hackathon, KEC<br>
+🥉 &nbsp;**3rd place** — KEC Hackathon '24 (38 hrs) · Front to Back Hackathon, GCT · IEEE Paper Presentation, KEC
 
-- ⚡ Fun fact **I think I'm funny**
+### Activity
 
-<br>
-
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/jayasurya5454/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://leetcode.com/u/JAYASURYA_M/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="leetcode" /></a>
-  <a href="https://www.kaggle.com/jayasuryam22alr032" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
- <a href="https://jayasurya5454.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a> 
-<a href="https://www.hackerrank.com/profile/Jayasurya5454" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white" alt="hackerrank" /></a>
+<p align="center">
+  <img width="520" src="https://streak-stats.demolab.com?user=Jayasurya5454&background=0d1117&border=30363d&border_radius=10&ring=4fb3d9&fire=4fb3d9&currStreakLabel=4fb3d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&disable_animations=true" />
 </p>
-<br>
-
-<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
-
-<h1 align="left">Languages and Tools:</h1>
-
-  <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=gcp,aws,terraform,docker,kubernetes,nginx,bitbucket,jenkins,github,grafana,prometheus,postman,git,linux" /> 
-  </a>
-
-
-<br/>
-
-<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
-
-<div align="center">
- 
-
-
-</div>
-
-<br><br>
- 
-# Achievements
-
-| Place  | Achievement               | Description                                                                                          | Icon                                                                 |
-|--------|---------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 🥇 1st | AI Conclave - 24 Hour Hackathon    | Won 1st place at AI Conclave National Level Hackathon with  **Reward of 10,000**                                                     | ![Icon](https://img.icons8.com/?size=50&id=X6CJMckcVrBj&format=png&color=000000) |
-| 🥇 1st | Puzzle Solving Fest       | Won 1st place at puzzle-solving fest at KEC.                                                       | ![Icon](https://img.icons8.com/?size=50&id=X6CJMckcVrBj&format=png&color=000000) |
-| 🥇 2st | 24-Hour Hackathon      | Won 2st place at 24-hour hackathon at KEC.                                                       | ![Icon](https://img.icons8.com/?size=50&id=dgAxfaiZaNr6&format=png&color=000000) |
-| 🥉 3rd | Front to Back Hackathon   | Won 3rd prize at Front to Back Hackathon at GCT Coimbatore.                                         | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |
-| 🥉 3rd | 38-Hour Hackathon         | Won 3rd place at 38-hour hackathon, KEC Hackathon 24, competing across the college.                 | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |
-| 🥉 3rd | IEEE Paper Presentation   | Won 3rd place at paper presentation organized by the IEEE student branch at KEC.                   | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |
-| 📄     | Research Paper Published  | Published "Leveraging Deep Learning For Comprehensive Plant Disease Classification" in IEEE Xplore. | ![Icon](https://img.icons8.com/?size=50&id=8MqrQIywEiYc&format=png&color=000000) |
 
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
-<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br>

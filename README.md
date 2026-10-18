@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Engineer from India </h3>
 <p align="center">I'm fascinated by how computer technology has transformed our lives in ways we couldn't have predicted. Witnessing its expansion inspired me to pursue software engineering from an early age, and my passion has only grown. 🛠️</p></div>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Jayasurya5454" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=Jayasurya5454" alt="" /> 
 
 </p>
 
